@@ -31,7 +31,7 @@
     "imageSrc": "projects/images.jpg",
     "description": "Enable the customer to create account, conduct various financial transactions, check balance and access services at any time without visiting a bank branch for services.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://bank-landing-page-pearl-phi.vercel.app/",
     "source": "https://www.github.com"
   },
 
