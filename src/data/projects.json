@@ -6,8 +6,8 @@
     "imageSrc": "projects/1_e3NXmbnpZNpSQ4ltzXdTHg.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "://https://first-shop-gamma.vercel.app/login",
-    "source": "://https://github.com/shubhsaini03/B2C-Ecommerce-Web-Application"
+    "demo": ":https://first-shop-gamma.vercel.app/",
+    "source": ":https://github.com/shubhsaini03/B2C-Ecommerce-Web-Application"
   },
   {
     "title": "Toll-Calculator",
