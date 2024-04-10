@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Mern Stack Intern",
+      "organisation": "   Grras Solution's Pvt Ltd",
+      "startDate": "june, 2023",
+      "endDate": "Dec,2023",
+      "experiences": ["Building Responsive Website using HTML,CSS,Bootstrap,React js, Node js", "Building Backend application and API using Node js and Express js "],
+      "imageSrc": "history/grras.jpg"
+    },
+    {
+      "role": "Full Stack Dev",
+      "organisation": "Numetry Technology Pvt Ltd",
+      "startDate": "Jan, 2024",
+      "endDate": "Present",
+      "experiences": ["Expertise in Using javascript Framework to buld Dynamic Application", "Designed Responsive Website using React js","Helped create UI components"],
+      "imageSrc": "history/th.jpg"
+    }
+    
+  ]

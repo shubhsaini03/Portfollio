@@ -1,0 +1,47 @@
+[
+
+    
+    {
+      "title": "Ecommerce Web Application",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Toll-Calculator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "LIve Chat-App",
+      "imageSrc": "projects/Chat.webpg",
+      "description": "A chat application makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+
+    {
+      "title": "Net Banking (Paytm Checksum",
+      "imageSrc": "projects/project.png",
+      "description": "Enable the customer to create account, conduct various financial transactions, check balance and access services at any time without visiting a bank branch for services.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+
+    {
+      "title": "User Managment System",
+      "imageSrc": "projects/project.png",
+      "description": "The objective of a user management system is to manage all the user roles across a company and Storing user details and credentials",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://www.linkedin.com/posts/shubh-saini-b06427249_customer-management-project-mern-features-activity-7089919744245456896-SvMJ?utm_source=share&utm_medium=member_desktop",
+      "source": "https://github.com/shubhsaini03/Customer-Managment-System"
+    }
+    
+  ]
